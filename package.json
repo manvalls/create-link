@@ -1,6 +1,6 @@
 {
   "name": "create-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates an anchor and patches the origin prop",
   "main": "./dist/createLink.cjs.js",
   "module": "./dist/createLink.esm.js",
